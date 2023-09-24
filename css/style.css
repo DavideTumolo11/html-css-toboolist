@@ -11,7 +11,7 @@
     font-family: Arial;
 
 }
-
+/* section button add-task end add section */
 .container {
     margin: auto;
     background-color: white;
@@ -23,6 +23,27 @@
 .button {
     padding: 20px 40px;
 }
+
+.add_task {
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    border: 2px solid white;
+    background-color: #66affe;
+    color: white;
+}
+
+.add_section {
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    border: 1px solid rgb(146, 146, 146);
+    background-color: rgb(255, 255, 255);
+    color: darkgray;
+}
+
+/* section lista */
+
 
 
 
