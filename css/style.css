@@ -1,0 +1,44 @@
+.logo {
+    vertical-align: middle;
+    padding-left: 20px;
+
+}
+
+.titolo {
+    display: inline;
+    vertical-align: middle;
+    font-weight: bold;
+    font-family: Arial;
+    
+}
+
+.debug main {
+    
+    margin: 100px 300px;
+    padding: 10px;
+    background-color: white
+
+    
+}
+
+#add_task {
+    
+    background-color: #38a8e1;
+}
+
+#add_section {
+
+    background-color: #38a8e1;
+}
+
+.debug footer {
+    
+}
+
+
+#toboolist {
+    font-size: 50px;
+}
+
+
+
