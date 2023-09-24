@@ -15,8 +15,8 @@
 .container {
     margin: auto;
     background-color: white;
-    height: 650px;
-    width: 700px;
+    height: 750px;
+    width: 1400px;
     border-radius: 5px;
 }
 
@@ -44,7 +44,10 @@
 
 /* section lista */
 
+.list {
+    margin: 30px 40px;
 
+}
 
 
 
