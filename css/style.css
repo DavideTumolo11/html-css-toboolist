@@ -42,13 +42,28 @@
     color: darkgray;
 }
 
+hr {
+    border: 1px solid darkgrey;
+}
+
 /* section lista */
 
 .list {
-    margin: 30px 40px;
-
+    margin: 40px 25px;
 }
 
+.style {
+    list-style: none;
+    font-family: Arial;
+}
+
+.margin {
+    margin: 10px;
+}
+
+.green_check {
+    
+}
 
 
 
