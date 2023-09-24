@@ -62,8 +62,86 @@ hr {
 }
 
 .green_check {
+    color: green;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    border-radius: 50%;
+    line-height: 15px;
+    font-size: 10px;
+    text-align: center;
+    border: 1px solid green
     
 }
+
+.red_cross {
+    color: red;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    border-radius: 50%;
+    line-height: 15px;
+    font-size: 10px;
+    text-align: center;
+    border: 1px solid red
+}
+
+.blue_label {
+    color: #ffffff;
+    padding: 6px;
+    font-size: 10px;
+    height: 15px;
+    border-radius: 10px;
+    background-color: #66affe;
+}
+
+.violet_label {
+    color: #ffffff;
+    padding: 6px;
+    font-size: 10px;
+    height: 15px;
+    border-radius: 10px;
+    background-color: #BA55D3;
+}
+
+.green_label {
+    color: #ffffff;
+    padding: 6px;
+    font-size: 10px;
+    height: 15px;
+    border-radius: 10px;
+    background-color: green;
+}
+
+.orange_label {
+    color: #ffffff;
+    padding: 6px;
+    font-size: 10px;
+    height: 15px;
+    border-radius: 10px;
+    background-color: #F4A460;
+}
+
+.pink_label {
+    color: #ffffff;
+    padding: 6px;
+    font-size: 10px;
+    height: 15px;
+    border-radius: 10px;
+    background-color: #C71585;
+}
+
+.lightgreen_label {
+    color: #ffffff;
+    padding: 6px;
+    font-size: 10px;
+    height: 15px;
+    border-radius: 10px;
+    background-color:lightgreen;
+}
+
 
 
 
